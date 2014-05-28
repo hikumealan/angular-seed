@@ -1,0 +1,4 @@
+angular-seed
+============
+
+Angular Seed
